@@ -1,6 +1,7 @@
 .primary-content article img {
 	position: relative;
 	width: 100%;
+	animation: shadow 1s;
 }
 
 .primary-content article ul {
